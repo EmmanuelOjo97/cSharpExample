@@ -1,0 +1,15 @@
+C:\Users\emman\The_Software_Institute\PaintProject\bin\Debug\net6.0\PaintProject.exe
+C:\Users\emman\The_Software_Institute\PaintProject\bin\Debug\net6.0\PaintProject.deps.json
+C:\Users\emman\The_Software_Institute\PaintProject\bin\Debug\net6.0\PaintProject.runtimeconfig.json
+C:\Users\emman\The_Software_Institute\PaintProject\bin\Debug\net6.0\PaintProject.dll
+C:\Users\emman\The_Software_Institute\PaintProject\bin\Debug\net6.0\ref\PaintProject.dll
+C:\Users\emman\The_Software_Institute\PaintProject\bin\Debug\net6.0\PaintProject.pdb
+C:\Users\emman\The_Software_Institute\PaintProject\obj\Debug\net6.0\PaintProject.csproj.AssemblyReference.cache
+C:\Users\emman\The_Software_Institute\PaintProject\obj\Debug\net6.0\PaintProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\The_Software_Institute\PaintProject\obj\Debug\net6.0\PaintProject.AssemblyInfoInputs.cache
+C:\Users\emman\The_Software_Institute\PaintProject\obj\Debug\net6.0\PaintProject.AssemblyInfo.cs
+C:\Users\emman\The_Software_Institute\PaintProject\obj\Debug\net6.0\PaintProject.csproj.CoreCompileInputs.cache
+C:\Users\emman\The_Software_Institute\PaintProject\obj\Debug\net6.0\PaintProject.dll
+C:\Users\emman\The_Software_Institute\PaintProject\obj\Debug\net6.0\ref\PaintProject.dll
+C:\Users\emman\The_Software_Institute\PaintProject\obj\Debug\net6.0\PaintProject.pdb
+C:\Users\emman\The_Software_Institute\PaintProject\obj\Debug\net6.0\PaintProject.genruntimeconfig.cache
