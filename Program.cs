@@ -23,7 +23,12 @@ namespace PainterList{
             Console.WriteLine(numberOfTins);
             Console.WriteLine(hoursTakenToComplete);
 
-            string paintColour = "green";
+
+
+            string[] colourOptions = {"red","red","blue","purple","green"};
+            for(int i = 0; i < colourOptions.Length; i++){
+
+            string paintColour = colourOptions[i];
             switch(paintColour){
                 case "yellow":
                 Console.WriteLine("Buy yellow paint");
@@ -41,6 +46,7 @@ namespace PainterList{
                 Console.WriteLine("Paint out of Stock");
                 break;
             }
+            }
 
             if(totalCost > 150){
                 Console.WriteLine("Total cost before discount £" + totalCost);
@@ -51,6 +57,13 @@ namespace PainterList{
             Console.WriteLine("Total cost with no discount " + totalCost);
             return;
             }
+
+
+
+
+
+
+
 
             // int x = 5;
             // int y = 10;
@@ -63,11 +76,6 @@ namespace PainterList{
             // }else{
             //     Console.WriteLine(3);
             // }
-
-
-
-
-
 
         }
     }
