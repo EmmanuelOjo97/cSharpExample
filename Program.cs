@@ -9,14 +9,18 @@ namespace PainterList{
             double colourBlue = 9.99;
             double colourPurple = 13.09;
             string coloursToBuy = "redx2,blue,purple";
+            double costOfPaint = colourRed * 2 + colourBlue + colourPurple;
             int numberOfTins = 4;
             double hoursTakenToComplete = 5.5;
+            int labourCostPerhour = 30;
+            double totalCost = labourCostPerhour * hoursTakenToComplete + costOfPaint;
             Console.WriteLine(coloursToBuy);
-            Console.WriteLine(colourRed*2 + colourBlue + colourPurple );
             Console.WriteLine(numberOfTins);
             Console.WriteLine(hoursTakenToComplete);
-            double nice = Math.Abs(-30.9);
-            Console.WriteLine(nice);
+            Console.WriteLine(totalCost);
+
+
+
         }
     }
 }
